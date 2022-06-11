@@ -1,2 +1,0 @@
-# leonelta-shop
-Leonelta shop
